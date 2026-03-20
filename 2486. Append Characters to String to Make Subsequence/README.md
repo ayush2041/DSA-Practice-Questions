@@ -1,6 +1,6 @@
 2486. Append Characters to String to Make Subsequence
 link->https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/
-Medium
+[Medium]
 
 You are given two strings s and t consisting of only lowercase English letters.
 
